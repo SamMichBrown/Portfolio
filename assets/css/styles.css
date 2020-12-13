@@ -206,7 +206,7 @@
     border-radius: 6px;
   }
   
-/* Feature First Portfolio Item */
+  /* Portfolio section */
   
   .grid-item:first-child {
       grid-column: span 8;

@@ -11,7 +11,9 @@
     --dark: rgb(86, 94, 133);
     --light: rgb(209, 209, 230);
   }
-  
+
+  /* Apply these styles to the body */
+
   body {
     margin: 0;
     padding: 0;
@@ -34,6 +36,8 @@
     margin: 0;
   }
   
+  /* Apply these styles to the header */
+
   header {
     padding: 15px 6% 15px 0;
     display: flex;
