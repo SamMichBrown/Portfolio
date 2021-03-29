@@ -1,6 +1,7 @@
 # My Portfolio
 
-![My Portfolio Website](/My-website.png)
+![Screenshot 2021-03-28 211621](https://user-images.githubusercontent.com/71106177/112775450-ea4e3a00-900a-11eb-99ef-44ef97f274c4.png)
+
 
 
 ## Purpose
